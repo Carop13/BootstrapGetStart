@@ -3,5 +3,3 @@ bower_components
 
 # Compiled styles
 app/styles/css/**/*
-
-app/index.html
